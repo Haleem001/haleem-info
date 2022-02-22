@@ -30,7 +30,9 @@ div.col-sm-12{
     align-items: center;
     justify-content: center;
     margin-bottom: -50px;
-    
+    background-image: url('./img/bg-22.jpg');
+    background-repeat:unset;
+    background-position: center;
    
 }
 
